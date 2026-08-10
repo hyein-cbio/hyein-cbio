@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/profile-banner.svg" alt="Hyein Cho profile banner" width="100%" />
+</p>
+
 # Hyein Cho
 
 Computational biologist interested in genomics, epigenomics, single-cell analysis, and scientific software.
