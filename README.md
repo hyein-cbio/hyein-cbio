@@ -24,6 +24,7 @@ I also tinker with AI-assisted development, developer tooling, and small utiliti
 
 - [`pi-export-notool`](https://github.com/hyein-cbio/pi-export-notool) — lightweight Pi export tooling
 - [`pi-multilang-alias`](https://github.com/hyein-cbio/pi-multilang-alias) — multilingual alias helpers for Pi
+- [`pi-subagents`](https://github.com/hyein-cbio/pi-subagents) - open source contribution for Pi's Orca interaction
 - [`orca`](https://github.com/hyein-cbio/orca) — open source contribution to multi-agent coding orchestration
 
 ## 🗺️ Geospatial & web
