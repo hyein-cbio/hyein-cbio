@@ -8,6 +8,8 @@ Computational biologist interested in genomics, epigenomics, single-cell analysi
 
 I also tinker with AI-assisted development, developer tooling, and small utilities that make technical workflows a little less painful.
 
+Follow me on [X / Twitter](https://x.com/hyein_cbio)!
+
 ## 🧬 Computational biology & genomics
 
 - [`epi-SHARE-seq-pipeline`](https://github.com/hyein-cbio/epi-SHARE-seq-pipeline) — single-cell / single-nucleus multiomic processing pipeline
